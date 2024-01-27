@@ -1,0 +1,77 @@
+﻿@using Model;
+@model Employee;
+
+@{
+    Layout = "";
+	ViewData["Title"] = "Add Employee";
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>AddEmployee</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	
+	<link rel="stylesheet" href="~/FormTemplate/formfonts/material-design-iconic-font/css/material-design-iconic-font.min.css">
+	<link rel="stylesheet" href="~/FormTemplate/css/style.css">
+
+	<!-- Add this in the head section of your HTML -->
+	<script src="https://code.jquery.com/jquery-3.6.4.min.js"></script>
+
+	<!-- Add this in the head section of your HTML or include it in your CSS file -->
+	<style>
+		.error-message {
+			color: red;
+			font-size: 15px;
+			margin-top: 5px;
+		}
+
+		.border.error {
+			border: 1px solid red;
+		}
+	</style>
+
+
+
+</head>
+
+<body>
+	<div class="wrapper">
+		<div class="inner">
+			<form asp-action="AddEmployee" method="post" id="myForm">
+				<h3>@ViewData["Title"]</h3>
+				<label class="form-group">
+					<input id="name" asp-for="Name" type="text" class="form-control">
+					<span asp-for="Name">Your Name</span>
+					<span class="border" id="border_name"></span>
+				</label>
+				<label class="form-group">
+					<input id="email" asp-for="Email" type="text" class="form-control">
+					<span asp-for="Email">Your Mail</span>
+					<span class="border" id="invalid_email"></span>
+				</label>
+				<label class="form-group">
+					<input id="contact" asp-for="Contact" type="text" class="form-control">
+					<span asp-for="Contact">Your Contact</span>
+					<span class="border" id="invalid_contact"></span>
+				</label>
+				<label class="form-group">
+					<input id="address" asp-for="Addres" type="text" class="form-control">
+					<span asp-for="Addres">Your Address</span>
+					<span class="border" id="border_address"></span>
+				</label>
+
+				<button type="submit">
+					Submit
+					<i class="zmdi zmdi-arrow-right"></i>
+				</button>
+			</form>
+		</div>
+	</div>
+
+    <script src="~/lib/jquery/dist/jquery.js"></script>
+    <script src="~/js/custom.js"></script>
+
+</body>
+</html>

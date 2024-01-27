@@ -1,0 +1,17 @@
+F:\Techpro\EmployeeManagement\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.csproj.AssemblyReference.cache
+F:\Techpro\EmployeeManagement\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+F:\Techpro\EmployeeManagement\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.AssemblyInfoInputs.cache
+F:\Techpro\EmployeeManagement\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.AssemblyInfo.cs
+F:\Techpro\EmployeeManagement\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.csproj.CoreCompileInputs.cache
+F:\Techpro\EmployeeManagement\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.deps.json
+F:\Techpro\EmployeeManagement\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.runtimeconfig.json
+F:\Techpro\EmployeeManagement\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.dll
+F:\Techpro\EmployeeManagement\DataAccessLayer\bin\Debug\net7.0\DataAccessLayer.pdb
+F:\Techpro\EmployeeManagement\DataAccessLayer\bin\Debug\net7.0\ModelAccessLayer.dll
+F:\Techpro\EmployeeManagement\DataAccessLayer\bin\Debug\net7.0\ModelAccessLayer.pdb
+F:\Techpro\EmployeeManagement\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.csproj.CopyComplete
+F:\Techpro\EmployeeManagement\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.dll
+F:\Techpro\EmployeeManagement\DataAccessLayer\obj\Debug\net7.0\refint\DataAccessLayer.dll
+F:\Techpro\EmployeeManagement\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.pdb
+F:\Techpro\EmployeeManagement\DataAccessLayer\obj\Debug\net7.0\DataAccessLayer.genruntimeconfig.cache
+F:\Techpro\EmployeeManagement\DataAccessLayer\obj\Debug\net7.0\ref\DataAccessLayer.dll

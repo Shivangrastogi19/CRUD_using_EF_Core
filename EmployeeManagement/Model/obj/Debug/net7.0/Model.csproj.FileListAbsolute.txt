@@ -1,0 +1,11 @@
+F:\Techpro\EmployeeManagement\Model\bin\Debug\net7.0\Model.deps.json
+F:\Techpro\EmployeeManagement\Model\bin\Debug\net7.0\Model.dll
+F:\Techpro\EmployeeManagement\Model\bin\Debug\net7.0\Model.pdb
+F:\Techpro\EmployeeManagement\Model\obj\Debug\net7.0\Model.GeneratedMSBuildEditorConfig.editorconfig
+F:\Techpro\EmployeeManagement\Model\obj\Debug\net7.0\Model.AssemblyInfoInputs.cache
+F:\Techpro\EmployeeManagement\Model\obj\Debug\net7.0\Model.AssemblyInfo.cs
+F:\Techpro\EmployeeManagement\Model\obj\Debug\net7.0\Model.csproj.CoreCompileInputs.cache
+F:\Techpro\EmployeeManagement\Model\obj\Debug\net7.0\Model.dll
+F:\Techpro\EmployeeManagement\Model\obj\Debug\net7.0\refint\Model.dll
+F:\Techpro\EmployeeManagement\Model\obj\Debug\net7.0\Model.pdb
+F:\Techpro\EmployeeManagement\Model\obj\Debug\net7.0\ref\Model.dll
